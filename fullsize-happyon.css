@@ -1,0 +1,27 @@
+.vod-mod-header__inner{
+    padding:0px;
+    height:30px;
+}
+
+.vod-mod-header__logo img{
+    width:60%;
+}
+
+.vod-frm--user01 .vod-frm__main{
+    padding-top:30px;
+}
+
+.vod-mod-movie {
+    padding:0px;
+}
+
+.vod-mod-movie__inner {
+    width: 100%;
+    max-width: 1920px;
+}
+
+#vod-vid-d-5 .vod-mod-movie ~ .vod-mod-heading-box--type03{
+    padding-top:5px;
+    padding-bottom:5px;
+    max-width:1920px;
+}
