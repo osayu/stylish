@@ -1,6 +1,6 @@
 workflow "New workflow" {
-  on = "check_run"
   resolves = ["HTTP client"]
+  on = "push"
 }
 
 action "HTTP client" {
